@@ -11,12 +11,12 @@ The rest of the .py files contain classes and functions that are called in main.
 
 The input data (in main) concerinig thrusters are specific and some of them are not arbitrary. All choices are available in thruster_loop.py
 
-The results are fonunt in the RESULTS folder. Some examples are already given there.
+The results are found in the RESULTS folder. Some examples are already given there.
 
-Python version supporting the scrip is 3.8.12
+Python version supporting the script is 3.8.12
 
-The list of libraries and their version is given in file dp_libraries.txt
+The list of libraries and their versions is given in file dp_libraries.txt
 
 The script is engineered without code optimization or common programming practicies. It may be developed further or used as it is. 
-The functionality is correct and results validated. The performance in sense of calcualtion time is few seconds.
+The functionality is correct and results validated. The performance in sense of calculation time is few seconds.
 
