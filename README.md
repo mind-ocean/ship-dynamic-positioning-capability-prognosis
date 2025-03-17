@@ -3,7 +3,9 @@ This script allows for DP prognosis with DNV-ST-0111 level 1
 
 The script is initiated from main.py, the ship input data are determined there at the beginning of the script.
 The description of each variable is given in the docs folder in the DNV-ST-0111 standard and in the dissertation that is also provided there.
-The docs folder also contains the publication on the subject of thrust allocation applied in the script
+The script is a part of the PHD that covers a subject of prognosis with all DNV levels esspecially the DP simulation
+The docs folder also contains the publication on the subject of thrust allocation applied in the script.
+
 
 The rest of the .py files contain classes and functions that are called in main.py
 
