@@ -17,6 +17,6 @@ Python version supporting the script is 3.8.12
 
 The list of libraries and their versions is given in file dp_libraries.txt
 
-The script is engineered without code optimization or common programming practicies. It may be developed further or used as it is. 
+The script may be developed further or used as it is. 
 The functionality is correct and results validated. The performance in sense of calculation time is few seconds.
 
